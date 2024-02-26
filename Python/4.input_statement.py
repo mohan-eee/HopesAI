@@ -6,4 +6,4 @@ no1=int(input("Enter first number:"))
 no2=int(input("Enter second number2 :"))
 Addition=no1+no2
 print ("The answer is : ",Addition)  
- 
+NUM=input("Enter number:")
